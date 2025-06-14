@@ -270,7 +270,7 @@ const MainSection = () => {
 
                     <tbody>
                     <tr>
-                        <td className="output-label" onClick={() => window.open("/bond-insights/Formulas/Bond Price Calculation.pdf", "_blank") }>Current Bond Price:</td>
+                        <td className="output-label" onClick={() => window.open(`${import.meta.env.BASE_URL}Formulas/Bond Price Calculation.pdf`, "_blank") }>Current Bond Price:</td>
                         <td className="bond-price-value">{bondPrice !== null ? bondPrice.toFixed(2) : ""}</td>
                     </tr>
                     </tbody>
