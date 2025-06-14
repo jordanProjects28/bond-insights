@@ -155,7 +155,7 @@ input::-webkit-inner-spin-button {
 
 .calculator td button {
   width: 115px; 
-  font-size: 20px;
+  font-size: 17px;
   font-family:  monospace, Times;
   cursor: pointer;
   border-radius: 5px;
