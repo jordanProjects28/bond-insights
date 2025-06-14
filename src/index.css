@@ -198,7 +198,7 @@ input::-webkit-inner-spin-button {
 
 .modalContainer {
   width: 70vw;
-  height: 65vh;
+  height: 50vh;
   border-radius: 12px;
   background-color: hsl(0, 0%, 100%);
   box-shadow: hsl(0, 0%, 35%) 0px 5px 15px;
