@@ -1,12 +1,15 @@
-# React + Vite
+Bond Insights 📊
+Bond Insights is a simple React app built with Vite that helps you understand and calculate key fixed-income metrics like Bond Price, Duration, and Convexity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This tool was created by a finance graduate who loves coding in his free time. It's designed to support finance students and enthusiasts in visualizing and learning essential bond calculations.
 
-Currently, two official plugins are available:
+🔍 Features
+📈 Bond Price Calculator
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⏳ Duration Calculator
 
-## Expanding the ESLint configuration
+📉 Convexity Calculator
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧾 Downloadable PDF formulas to help you understand the math
+
+📱 Mobile-friendly and clean U
