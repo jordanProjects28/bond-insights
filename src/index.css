@@ -160,6 +160,7 @@ input::-webkit-inner-spin-button {
   cursor: pointer;
   border-radius: 5px;
   box-shadow: 1px 1px 5px hsl(0, 0%, 10%);
+  padding: 4px;
 }
 
 .calculator td button:hover {
