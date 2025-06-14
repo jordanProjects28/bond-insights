@@ -8,9 +8,10 @@ This project was created by a finance graduate with a passion for coding. It's t
 
 ## 🔍 Features
 
-- 📈 **Bond Price Calculator** – Compute the present value of a bond based on its coupon rate, face value, and yield.
-- ⏳ **Duration Calculator** – Evaluate interest rate sensitivity using Macaulay and modified duration.
-- 📉 **Convexity Calculator** – Measure the curvature in the relationship between bond prices and interest rates.
+- 🔢 **Bond Price Calculator** – Compute the present value of a bond based on its coupon rate, face value, yield and maturity.
+- 🔢 **Duration Calculator** – Evaluate Macaulay Duration to assess interest rate sensitivity.
+- 🔢 **Convexity Calculator** – Measure Convexity of the bond.
+- ⏳ **Diferrent Payment Interval** – Choose between four different payment intervals - annual, semiannual, quartely and monthly.
 - 🧾 **Downloadable PDF Formulas** – Quickly access helpful reference PDFs for the core calculations.
-- 📱 **Mobile-Friendly Interface** – Designed with responsiveness in mind for smooth use on all devices.
+- 📱 **Mobile-Friendly Interface** – Designed with responsiveness in mind for smooth use on most devices.
 
